@@ -1,0 +1,11 @@
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.AssemblyReference.cache
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.SuggestedBindingRedirects.cache
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.CoreCompileInputs.cache
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\bin\Debug\ExcelReading.exe.config
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\bin\Debug\ExcelReading.exe
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\bin\Debug\ExcelReading.pdb
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\bin\Debug\Aspose.Cells.dll
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\bin\Debug\Aspose.Cells.xml
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\obj\Debug\ExcelReading.csproj.CopyComplete
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\obj\Debug\ExcelReading.exe
+C:\Users\raziy\OneDrive\Belgeler\dll_exercise\ExcelReading\ExcelReading\obj\Debug\ExcelReading.pdb
